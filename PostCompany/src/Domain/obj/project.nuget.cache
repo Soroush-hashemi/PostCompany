@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlFBJYDkmCghmNmkR502GS1vTNxVySx9UMGTBlkDwPAf44UWX/lfIASLz/235stir8mGLRoUZWISvy8o3JfNJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hashe\\Desktop\\Post Company Test\\PostCompany\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hashe\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\hashe\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
